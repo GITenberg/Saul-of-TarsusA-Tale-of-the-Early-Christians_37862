@@ -1,0 +1,42 @@
+_repo: Saul-of-TarsusA-Tale-of-the-Early-Christians_37862
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Castaigne, J. André
+    aliases:
+    - Castaigne, A. (André)
+    - Castaigne, Andre
+    - Castaigne, J. Andre
+    - Castaigne, André
+    gutenberg_agent_id: '31877'
+    url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Elizabeth
+    alias: Miller, Elizabeth Jane
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '6389'
+    url: http://www.gutenberg.org/2009/agents/6389
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apostles -- Fiction'
+- !lcsh 'Paul, the Apostle, Saint -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Christian saints -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Fiction'
+title: 'Saul of Tarsus: A Tale of the Early Christians'
+url: http://www.gutenberg.org/ebooks/37862
